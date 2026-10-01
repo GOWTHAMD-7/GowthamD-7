@@ -1,177 +1,217 @@
+# GOWTHAM D
+
+Feel free to explore more about me.....
+
+<h1 align="center">Hi 👋, I'm Gowtham D</h1>
+<h3 align="center">CSE Final Year | Aspiring Software Engineer | Backend • Java • DSA • AI</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GOWTHAMD-7&label=Profile%20views&color=0e75b6&style=flat" alt="GOWTHAMD-7" />
+</p>
+
+- 🎓 I'm currently a **Final-Year Computer Science Engineering Student**
+
+- 💻 Interested in **Software Engineering, Backend Development & System Design**
+
+- 🌱 Currently learning **Distributed Systems, AI Engineering & Advanced DSA**
+
+- 🔭 Building projects with **Java, Spring Boot, React and AI**
+
+- 🧠 I enjoy solving problems and understanding how systems work under the hood
+
+- 🚀 I learn best by **building real things and experimenting**
+
+- 💬 Ask me about **Java, Spring Boot, DSA, Backend Development & AI**
+
+<br>
+
+## 🛠 TECH STACK
+
 <div align="center">
 
-# Hey, I'm Gowtham 👋
+### 💻 Languages
 
-### CSE Final Year | Aspiring Software Engineer
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" />
 
-Backend • Java • DSA • System Design • AI
+### 🌐 Frontend
 
-I like understanding problems deeply, building things around them,
-and continuously improving through hands-on work.
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&theme=dark" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20D-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthamd07/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-GowthamD27-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/GowthamD27/)
-[![GitHub](https://img.shields.io/badge/GitHub-GOWTHAMD--7-181717?style=flat&logo=github&logoColor=white)](https://github.com/GOWTHAMD-7)
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" />
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
+
+### ☁️ Cloud / DevOps / Tools
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year Computer Science Engineering student
-- 💻 Interested in Software Engineering & Product Engineering
-- ☕ Backend development with **Java & Spring Boot**
-- 🧠 Strong focus on **DSA & Computer Science fundamentals**
-- 🏗️ Exploring **System Design & Distributed Systems**
-- 🤖 Exploring **AI Engineering & AI-assisted development**
-- 🚀 I learn best by **building real projects**
-- 🌱 Currently working on becoming a better engineer, one step at a time
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 FEATURED PROJECTS
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center">
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+<a href="https://github.com/GOWTHAMD-7/E-Commerce">
+<img src="https://img.shields.io/badge/🛒%20Sellora-Full%20Stack%20E--Commerce-1f1f1f?style=for-the-badge" />
+</a>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+&nbsp;&nbsp;
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<a href="https://github.com/GOWTHAMD-7/IDK-IDoKnow">
+<img src="https://img.shields.io/badge/🛡️%20IDoKnow-AI%20Security%20Platform-1f1f1f?style=for-the-badge" />
+</a>
 
-### AI / Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+</div>
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+<a href="https://github.com/GOWTHAMD-7/CampusConnect">
+<img src="https://img.shields.io/badge/🎓%20CampusConnect-Academic%20Platform-1f1f1f?style=for-the-badge" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/GOWTHAMD-7/Cybertra">
+<img src="https://img.shields.io/badge/🛡️%20Cybertra-Phishing%20Detection-1f1f1f?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
 
 ### 🛒 Sellora
+
 **Full-Stack E-Commerce Platform**
 
-React • Spring Boot • PostgreSQL
+`React` `Spring Boot` `PostgreSQL` `JWT` `Cloudinary`
 
-A complete e-commerce system exploring authentication,
-product management, search, cart, orders, reviews and recommendations.
+A full-stack e-commerce application focused on real-world backend engineering,
+authentication, product management, search, cart, orders, reviews and recommendations.
 
 ---
 
 ### 🛡️ IDoKnow
+
 **AI-Powered Security & Content Analysis**
 
-Python • AI • Security
+`Python` `FastAPI` `AI` `Security`
 
-A project focused on helping users understand and assess
-potentially unsafe online content.
-
----
-
-### 🏠 VaastuManai
-**AI-Assisted Home Planning**
-
-React • TypeScript • Node.js • Gemini
-
-A home planning tool built around a real-world problem,
-combining interactive planning with AI-assisted guidance.
+A security-focused platform for validating potentially unsafe URLs and
+analyzing online content using multiple security signals.
 
 ---
 
 ### 🎓 CampusConnect
+
 **Academic Activity Monitoring Platform**
 
-React • Node.js • Database
+`React` `Node.js` `Database`
 
-A platform designed to organize and monitor academic activities
-and interactions within a campus environment.
+A platform designed to manage and monitor academic activities through
+a centralized web application.
 
 ---
 
-## 📊 GitHub Stats
+### 🏠 VaastuManai
+
+**AI-Assisted Home Planning**
+
+`React` `TypeScript` `Node.js` `Gemini`
+
+A home planning tool built around a real-world problem, combining
+interactive planning with AI-assisted guidance.
+
+---
+
+# 🧠 PROBLEM SOLVING
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GOWTHAMD-7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMD-7&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GOWTHAMD-7&theme=github-dark-blue&hide_border=true)](https://github.com/GOWTHAMD-7)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GOWTHAMD-7&theme=onedark&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-[![Gowtham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMD-7&theme=github-compact&hide_border=true)](https://github.com/GOWTHAMD-7)
-
-</div>
-
----
-
-## 🧩 Problem Solving
 
 ### September 2026 — 30 Day Coding Challenge
 
-I challenged myself to code every day for 30 days.
+**30 / 30 Days Completed**
 
-**80 LeetCode Problems**
+💻 **80 LeetCode Problems**
 
-🟢 18 Easy  
-🟡 53 Medium  
-🔴 9 Hard
+🟢 18 Easy &nbsp;&nbsp; 🟡 53 Medium &nbsp;&nbsp; 🔴 9 Hard
+
+</div>
 
 The goal wasn't just solving problems.
 
-It was learning to show up consistently.
+It was to build the habit of showing up every day, regardless of
+whether it was a busy day, an outing, a Sunday or simply a day
+when I didn't feel like coding.
+
+> **Consistency is built through repeated action.**
 
 ---
 
-## 🌱 Currently
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOWTHAMD-7&theme=github_dark" width="95%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GOWTHAMD-7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMD-7&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GOWTHAMD-7&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GOWTHAMD-7&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMD-7&theme=github-compact&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+# 🌱 CURRENTLY
 
 ```text
-DSA                 ████████████████████
-Backend Engineering ██████████████████░░
-System Design       ███████████████░░░░░
-AI Engineering      █████████████░░░░░░░
-Projects            █████████████████░░░
+DSA                  ████████████████████
+Backend Engineering  ██████████████████░░
+System Design        ███████████████░░░░░
+AI Engineering       █████████████░░░░░░░
+Project Building     █████████████████░░░

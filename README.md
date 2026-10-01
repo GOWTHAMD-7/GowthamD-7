@@ -5,7 +5,7 @@ Feel free to explore more about me.....
 <h1 align="center">Hi 👋, I'm Gowtham D</h1>
 <h3 align="center">CSE Final Year | Aspiring Software Engineer | Backend • Java • DSA • AI</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggACoQwO3GgW0S/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZmbnVtYWxreWh6b2E0eHZhdWpkMndnN3V4NDJoMmI0anJidHRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GOWTHAMD-7&label=Profile%20views&color=0e75b6&style=flat" alt="GOWTHAMD-7" />

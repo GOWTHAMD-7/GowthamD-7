@@ -5,7 +5,7 @@ Feel free to explore more about me.....
 <h1 align="center">Hi 👋, I'm Gowtham D</h1>
 <h3 align="center">CSE Final Year | Aspiring Software Engineer | Backend • Java • DSA • AI</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggACoQwO3GgW0S/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GOWTHAMD-7&label=Profile%20views&color=0e75b6&style=flat" alt="GOWTHAMD-7" />
@@ -25,9 +25,13 @@ Feel free to explore more about me.....
 
 - 💬 Ask me about **Java, Spring Boot, DSA, Backend Development & AI**
 
+- 📫 Reach me at **dgowtham2706@gmail.com**
+
 <br>
 
-## 🛠 TECH STACK
+---
+
+# 🛠 TECH STACK
 
 <div align="center">
 
@@ -182,26 +186,6 @@ when I didn't feel like coding.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=GOWTHAMD-7&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GOWTHAMD-7&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMD-7&theme=github-compact&hide_border=true" width="95%" />
 
 </div>
 
